@@ -92,4 +92,4 @@ Video: https://youtu.be/0th-b9Fb9Sg
 
 ## Conclusion
 
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+In this practice it could be seen how the microcontroller can be used to, as it name says, rule a process. In this case, the main action was to turn on and off the LEDs, depending if the button was pushed or not, as this generates the signals needed. Using MPLAB to code was easier, as in practice #5 I learned how to debugg and check the program with two tools, in case there is any kind of errors. One problem that I had was that the leds turned on and off very quickly, but the solution I found to it was to increment the delay time, in order to make it slower and easier to play with.
